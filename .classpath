@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="newpackage/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="resources/mysql-connector-java-5.1.30.jar"/>
+	<classpathentry kind="lib" path="resources/vlcj-3.0.1/jna-3.5.2.jar"/>
+	<classpathentry kind="lib" path="resources/vlcj-3.0.1/platform-3.5.2.jar"/>
+	<classpathentry kind="lib" path="resources/vlcj-3.0.1/vlcj-3.0.1.jar"/>
+	<classpathentry kind="lib" path="resources/vlcj-3.0.1/vlcj-3.0.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="resources/vlcj-3.0.1/vlcj-3.0.1-tests.jar"/>
+	<classpathentry kind="lib" path="resources/vlcj-3.0.1/vlcj-3.0.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="resources/commons-net-3.3/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="resources"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
